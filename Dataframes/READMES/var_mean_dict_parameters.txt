@@ -1,1 +1,0 @@
-hop_length=1024, frame_length=2048, sr=22050, fmin=36, n_bins= 72, lag_seconds=4
