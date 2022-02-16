@@ -1,0 +1,9 @@
+,Genre,avg_precision,avg_recall,avg_f1_score
+0,Electronic,0.005,0.007,0.005
+1,Experimental,0.562,0.46099997,0.506
+2,Folk,0.605,0.686,0.641
+3,HipHop,0.67,0.782,0.721
+4,Instrumental,0.005,0.0059999996,0.005
+5,International,0.003,0.005,0.0039999997
+6,Pop,0.384,0.277,0.32
+7,Rock,0.58900005,0.581,0.58400005
